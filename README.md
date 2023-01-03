@@ -8,4 +8,4 @@ O conteúdo é de uma API com personagens da [Disney](https://disneyapi.dev/).
 
 https://wiki-disney.vercel.app/
 
-[WikiDisney](wikidisney.png)
+![WikiDisney](wikidisney.png)
